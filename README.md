@@ -4,13 +4,13 @@ Here is a description for a Text-to-SQL LLM web application, focusing on its rea
 
 ***
 
-### **1. Description of the Text-to-SQL LLM Web Application**
+### ** Description of the Text-to-SQL LLM Web Application**
 
 This web application is an intelligent tool that bridges the gap between natural language and structured data. Powered by a **Large Language Model (LLM)** like **Gemini 2.5 Pro**, it translates plain English questions into **accurate SQL queries**. Users, even those without any knowledge of SQL or database management, can simply type a question (e.g., "How many students are in the 'Data Science' class?") and the application will generate the correct SQL command, execute it, and display the results. This makes data retrieval and analysis accessible to a much broader audience.
 
 ***
 
-### **2. Real-World Use Cases**
+### ** Real-World Use Cases**
 
 The ability to query databases using natural language has transformative applications across various industries:
 
